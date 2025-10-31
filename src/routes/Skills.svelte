@@ -5,8 +5,8 @@
   } from 'lucide-svelte';
 
   const skills = [
-    { name: 'Frontend (React, HTML & CSS)', icon: Code2 },
-    { name: 'Backend (Node.js, Express & Flask)', icon: TerminalSquare },
+    { name: 'Frontend (Next.js,React, HTML & CSS)', icon: Code2 },
+    { name: 'Backend (Node.js, Express,Supabase & Flask)', icon: TerminalSquare },
     { name: 'Databases (MongoDB, MySQL & SQL)', icon: Database },
     { name: 'Python, JavaScript & C++', icon: Languages },
     { name: 'Cloud & DevOps', icon: Cloud },
